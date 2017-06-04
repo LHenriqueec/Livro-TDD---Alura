@@ -1,4 +1,4 @@
-package br.com.alura.entity;
+package br.com.alura.entity.coesao;
 
 public class Funcionario {
 

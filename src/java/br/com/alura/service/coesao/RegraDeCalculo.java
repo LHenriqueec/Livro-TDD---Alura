@@ -1,6 +1,6 @@
-package br.com.alura.service;
+package br.com.alura.service.coesao;
 
-import br.com.alura.entity.Funcionario;
+import br.com.alura.entity.coesao.Funcionario;
 
 public abstract class RegraDeCalculo {
 

@@ -5,8 +5,9 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import br.com.alura.entity.Cargo;
-import br.com.alura.entity.Funcionario;
+import br.com.alura.entity.coesao.Cargo;
+import br.com.alura.entity.coesao.Funcionario;
+import br.com.alura.service.coesao.CalculadoraDeSalario;
 
 public class CalculadoraDeSalarioTest {
 	

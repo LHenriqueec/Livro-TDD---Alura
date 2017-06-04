@@ -1,8 +1,8 @@
-package br.com.alura.entity;
+package br.com.alura.entity.coesao;
 
-import br.com.alura.service.DezOuVintePorCento;
-import br.com.alura.service.QuinzeOuVinteCincoPorCento;
-import br.com.alura.service.RegraDeCalculo;
+import br.com.alura.service.coesao.DezOuVintePorCento;
+import br.com.alura.service.coesao.QuinzeOuVinteCincoPorCento;
+import br.com.alura.service.coesao.RegraDeCalculo;
 
 public enum Cargo {
 	

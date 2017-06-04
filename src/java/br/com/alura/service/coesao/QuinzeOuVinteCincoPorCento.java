@@ -1,19 +1,19 @@
-package br.com.alura.service;
+package br.com.alura.service.coesao;
 
-public class DezOuVintePorCento extends RegraDeCalculo {
-	
+public class QuinzeOuVinteCincoPorCento extends RegraDeCalculo {
+
 	@Override
 	protected double porcentagemBase() {
-		return 0.9;
+		return 0.85;
 	}
 	
 	@Override
 	protected double porcentagemAcimaDoLimite() {
-		return 0.8;
+		return 0.75;
 	}
-
+	
 	@Override
 	protected int limite() {
-		return 3000;
+		return 2500;
 	}
 }
